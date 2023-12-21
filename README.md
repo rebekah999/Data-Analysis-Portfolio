@@ -2,8 +2,7 @@
 
 ## Excel
 
-### 
-[Adidas US Sales EDA.xlsx](Adidas%20US%20Sales%20EDA.xlsx)
+### [Adidas US Sales EDA.xlsx](Adidas%20US%20Sales%20EDA.xlsx)
 
 
 > An Excel spreadsheet analyzing Adidas Operating Margins and whether or not the difference values have statistical significance.
