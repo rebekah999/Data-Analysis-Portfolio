@@ -4,7 +4,7 @@
 
 Adidas US Sales EDA.xlsx
 
-```An Excel spreadsheet analyzing Adidas Operating Margins and whether or not the difference values have statistical significance.
+> An Excel spreadsheet analyzing Adidas Operating Margins and whether or not the difference values have statistical significance.
 
 Skills: Cleaning, manipulation, slicers, pivot tables, pivot charts, hypothesis testing, filtering, and formulas
 
