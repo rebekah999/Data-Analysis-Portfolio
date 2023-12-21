@@ -4,7 +4,7 @@
 
 Adidas US Sales EDA.xlsx
 
-An Excel spreadsheet analyzing Adidas Operating Margins and whether or not the difference values have statistical significance.
+```An Excel spreadsheet analyzing Adidas Operating Margins and whether or not the difference values have statistical significance.
 
 Skills: Cleaning, manipulation, slicers, pivot tables, pivot charts, hypothesis testing, filtering, and formulas
 
@@ -45,6 +45,6 @@ Salifort Motors - Employee Churn Prediction.ipynb
 
 A Jupyter notebook where I use logistic regression to predict whether an employee will churn.
 
-Skills: Data cleaning, EDA, visualization with Matplotlib and Seaborn, scipy stats, sklearn, and Logistic Regression model, Cross-validation
+Skills: Data cleaning, EDA, visualization with Matplotlib and Seaborn, scipy stats, sklearn, Logistic Regression model, and Cross-validation.
   
 Data: HR Analytics and Job Prediction
