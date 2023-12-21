@@ -2,7 +2,8 @@
 
 ## Excel
 
-### Adidas US Sales EDA.xlsx
+### [Adidas US Sales EDA.xlsx](Adidas%20US%20Sales%20EDA.xlsx)
+
 
 > An Excel spreadsheet analyzing Adidas Operating Margins and whether or not the difference values have statistical significance.
 
@@ -11,7 +12,8 @@
 **Data:** https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset
 
 
-### 2022 Milwaukee Property Sales.xlsx
+### [2022 Milwaukee Property Sales.xlsx](2022%20Milwaukee%20Property%20Sales.xlsx)
+
 
 > An Excel Dashboard analyzing residential property sales in Milwaukee.
 
@@ -21,27 +23,21 @@
 
 ## SQL
 
-### Bike Store Sales Analysis.sql
+### [Bike Store Sales Analysis.sql](Bike%20Store%20Sales%20Analysis.sql)
+
 
 > Bike Store Sales Analysis
 
 **Skills:** Aggregation, manipulation, grouping, filtering, subqueries, and joining data
 
 **Data:**
-production.brands.csv
-production.categories.csv
-production.products.csv
-production.stocks.csv
-sales.customers.csv
-sales.categories.csv
-sales.order_items.csv
-sales.orders.csv
-sales.staffs.csv
-sales.stores.csv
+[Bike Store Data](Bike%20Store%20Data/)
+
 
 ## Python
 
-### Salifort Motors - Employee Churn Prediction.ipynb
+### [Salifort Motors - Employee Churn Prediction.ipynb](Salifort%20Motors%20-%20Employee%20Churn%20Prediction.ipynb)
+
 
 > A Jupyter notebook where I use logistic regression to predict whether an employee will churn.
 
