@@ -6,28 +6,28 @@
 
 > An Excel spreadsheet analyzing Adidas Operating Margins and whether or not the difference values have statistical significance.
 
-Skills: Cleaning, manipulation, slicers, pivot tables, pivot charts, hypothesis testing, filtering, and formulas
+**Skills:** Cleaning, manipulation, slicers, pivot tables, pivot charts, hypothesis testing, filtering, and formulas
 
-Data: Adidas Sales Dataset
+**Data:** https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset
 
 
 ### 2022 Milwaukee Property Sales.xlsx
 
-An Excel Dashboard analyzing residential property sales in Milwaukee.
+> An Excel Dashboard analyzing residential property sales in Milwaukee.
 
-Skills: Cleaning, manipulation, slicers, pivot tables, pivot charts, XLOOKUP, filtering, and formulas.
+**Skills:** Cleaning, manipulation, slicers, pivot tables, pivot charts, XLOOKUP, filtering, and formulas.
 
-Data: Milwaukee Property Sales
+**Data:** https://data.milwaukee.gov/dataset/7a8b81f6-d750-4f62-aee8-30ffce1c64ce
 
 ## SQL
 
 ### Bike Store Sales Analysis.sql
 
-Bike Store Sales Analysis
+> Bike Store Sales Analysis
 
-Skills: Aggregation, manipulation, grouping, filtering, subqueries, and joining data
+**Skills:** Aggregation, manipulation, grouping, filtering, subqueries, and joining data
 
-Data:
+**Data:**
 production.brands.csv
 production.categories.csv
 production.products.csv
@@ -43,8 +43,8 @@ sales.stores.csv
 
 ### Salifort Motors - Employee Churn Prediction.ipynb
 
-A Jupyter notebook where I use logistic regression to predict whether an employee will churn.
+> A Jupyter notebook where I use logistic regression to predict whether an employee will churn.
 
-Skills: Data cleaning, EDA, visualization with Matplotlib and Seaborn, scipy stats, sklearn, Logistic Regression model, and Cross-validation.
+**Skills:** Data cleaning, EDA, visualization with Matplotlib and Seaborn, scipy stats, sklearn, Logistic Regression model, and Cross-validation.
   
-Data: HR Analytics and Job Prediction
+**Data:** https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv
