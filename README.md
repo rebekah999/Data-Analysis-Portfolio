@@ -1,8 +1,8 @@
 # Data Analysis Portfolio
 
-### Excel
+## Excel
 
-Adidas US Sales EDA.xlsx
+### Adidas US Sales EDA.xlsx
 
 > An Excel spreadsheet analyzing Adidas Operating Margins and whether or not the difference values have statistical significance.
 
@@ -11,7 +11,7 @@ Skills: Cleaning, manipulation, slicers, pivot tables, pivot charts, hypothesis 
 Data: Adidas Sales Dataset
 
 
-2022 Milwaukee Property Sales.xlsx
+### 2022 Milwaukee Property Sales.xlsx
 
 An Excel Dashboard analyzing residential property sales in Milwaukee.
 
@@ -19,9 +19,9 @@ Skills: Cleaning, manipulation, slicers, pivot tables, pivot charts, XLOOKUP, fi
 
 Data: Milwaukee Property Sales
 
-### SQL
+## SQL
 
-Bike Store Sales Analysis.sql
+### Bike Store Sales Analysis.sql
 
 Bike Store Sales Analysis
 
@@ -39,9 +39,9 @@ sales.orders.csv
 sales.staffs.csv
 sales.stores.csv
 
-### Python
+## Python
 
-Salifort Motors - Employee Churn Prediction.ipynb
+### Salifort Motors - Employee Churn Prediction.ipynb
 
 A Jupyter notebook where I use logistic regression to predict whether an employee will churn.
 
