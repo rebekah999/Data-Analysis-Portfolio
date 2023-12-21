@@ -7,7 +7,7 @@
 
 > A SQL file with queries providing insights into order processing, revenue analysis, customer behavior, inventory management, and employee performance.
 
-**Skills:** Aggregation, manipulation, grouping, filtering, subqueries, and joining data
+**Skills:** Subqueries, Aggregation, Manipulation, Grouping, Filtering, and Joining
 
 **Data:**
 [Bike Store Data](Bike%20Store%20Data/)
@@ -20,7 +20,7 @@
 
 > A Jupyter notebook where I use logistic regression to predict whether an employee will churn.
 
-**Skills:** Data cleaning, EDA, visualization with Matplotlib and Seaborn, scipy stats, sklearn, Logistic Regression model, and Cross-validation.
+**Skills:** Data cleaning, exploratory data analysis (EDA), visualization with Matplotlib and Seaborn, SciPy, scikit-learn, logistic regression modeling, and cross-validation.
   
 **Data:** https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv
 
@@ -32,7 +32,7 @@
 
 > An Excel spreadsheet analyzing Adidas' operating margins and determining the statistical significance of the difference values.
 
-**Skills:** Cleaning, manipulation, slicers, pivot tables, pivot charts, hypothesis testing, filtering, and formulas
+**Skills:** Cleaning, manipulation, working with slicers, creating pivot tables and pivot charts, conducting hypothesis testing, filtering, and utilizing formulas.
 
 **Data:** https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset
 
@@ -42,6 +42,6 @@
 
 > An Excel dashboard analyzing residential property sales in Milwaukee.
 
-**Skills:** Cleaning, manipulation, slicers, pivot tables, pivot charts, XLOOKUP, filtering, and formulas.
+**Skills:** Cleaning, manipulation, working with slicers, creating pivot tables and pivot charts, utilizing XLOOKUP, filtering, and applying formulas.
 
 **Data:** https://data.milwaukee.gov/dataset/7a8b81f6-d750-4f62-aee8-30ffce1c64ce
