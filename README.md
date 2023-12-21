@@ -7,7 +7,7 @@
 
 > A SQL file with queries providing insights into order processing, revenue analysis, customer behavior, inventory management, and employee performance.
 
-**Skills:** Subqueries, Aggregation, Manipulation, Grouping, Filtering, and Joining
+**Skills:** Subqueries, Aggregation, Manipulation, Grouping, Filtering, and Joining.
 
 **Data:**
 [Bike Store Data](Bike%20Store%20Data/)
