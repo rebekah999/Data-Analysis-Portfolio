@@ -5,7 +5,7 @@
 ### [Bike Store Sales Analysis.sql](Bike%20Store%20Sales%20Analysis.sql)
 
 
-> Bike Store Sales Analysis
+> A SQL file with queries providing insights into order processing, revenue analysis, customer behavior, inventory management, and employee performance.
 
 **Skills:** Aggregation, manipulation, grouping, filtering, subqueries, and joining data
 
@@ -30,7 +30,7 @@
 ### [Adidas US Sales EDA.xlsx](Adidas%20US%20Sales%20EDA.xlsx)
 
 
-> An Excel spreadsheet analyzing Adidas Operating Margins and whether or not the difference values have statistical significance.
+> An Excel spreadsheet analyzing Adidas' operating margins and determining the statistical significance of the difference values.
 
 **Skills:** Cleaning, manipulation, slicers, pivot tables, pivot charts, hypothesis testing, filtering, and formulas
 
@@ -40,7 +40,7 @@
 ### [2022 Milwaukee Property Sales.xlsx](2022%20Milwaukee%20Property%20Sales.xlsx.zip)
 
 
-> An Excel Dashboard analyzing residential property sales in Milwaukee.
+> An Excel dashboard analyzing residential property sales in Milwaukee.
 
 **Skills:** Cleaning, manipulation, slicers, pivot tables, pivot charts, XLOOKUP, filtering, and formulas.
 
