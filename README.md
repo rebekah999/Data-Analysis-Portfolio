@@ -13,6 +13,7 @@
 
 
 ### [2022 Milwaukee Property Sales.xlsx](2022%20Milwaukee%20Property%20Sales.xlsx.zip)
+### [2022 Milwaukee Property Sales.xlsx.zip](2022%20Milwaukee%20Property%20Sales.xlsx.zip)
 
 
 > An Excel Dashboard analyzing residential property sales in Milwaukee.
