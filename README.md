@@ -49,7 +49,7 @@
 
 ## Tableau
 
-### [Adidas Dashboard]([Adidas%20US%20Sales%20EDA.xlsx](https://public.tableau.com/views/Adidas_17001247399800/HomePage?:language=en-US&:display_count=n&:origin=viz_share_link))
+### [Adidas Dashboard](https://public.tableau.com/views/Adidas_17001247399800/HomePage?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 > A Tableau dashboard visualizing how operating margins charge based on the year, store locations, and product sales.
 
