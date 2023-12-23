@@ -45,3 +45,14 @@
 **Skills:** Cleaning, manipulation, working with slicers, creating pivot tables and pivot charts, utilizing XLOOKUP, filtering, and applying formulas.
 
 **Data:** https://data.milwaukee.gov/dataset/7a8b81f6-d750-4f62-aee8-30ffce1c64ce
+
+
+## Tableau
+
+### [Adidas Dashboard]([Adidas%20US%20Sales%20EDA.xlsx](https://public.tableau.com/views/Adidas_17001247399800/HomePage?:language=en-US&:display_count=n&:origin=viz_share_link))
+
+> A Tableau dashboard visualizing how operating margins charge based on the year, store locations, and product sales.
+
+**Data:** https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset
+
+
