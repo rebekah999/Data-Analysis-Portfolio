@@ -18,7 +18,7 @@
 ### [Salifort Motors - Employee Churn Prediction.ipynb](Salifort%20Motors%20-%20Employee%20Churn%20Prediction.ipynb)
 
 
-> A Jupyter notebook where I use logistic regression to predict whether an employee will churn.
+> A Jupyter Notebook where I used a logistic regression to predict whether an employee will churn.
 
 **Skills:** Data cleaning, exploratory data analysis (EDA), visualization with Matplotlib and Seaborn, SciPy, scikit-learn, logistic regression modeling, and cross-validation.
   
@@ -30,7 +30,7 @@
 ### [Adidas US Sales EDA.xlsx](Adidas%20US%20Sales%20EDA.xlsx)
 
 
-> An Excel spreadsheet analyzing Adidas' operating margins and determining the statistical significance of the difference values.
+> An Excel spreadsheet analyzing Adidas' operating margins and determining whether there is a statistical significance between the various pivot tables.
 
 **Skills:** Cleaning, manipulation, working with slicers, creating pivot tables and pivot charts, conducting hypothesis testing, filtering, and utilizing formulas.
 
