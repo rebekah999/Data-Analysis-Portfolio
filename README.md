@@ -49,6 +49,14 @@
 
 ## Tableau
 
+### [Marketing Analysis: Term Deposit Campaign](https://public.tableau.com/views/MarketingAnalysis_17062759188240/TermDepositCampaign?:language=en-US&:display_count=n&:origin=viz_share_link) (External link to Tableau Public)
+
+> This storyboard is designed to compare the success of the current term deposit marketing campaign with the previous one. It aims to identify demographic groups more likely to respond positively to the campaign.
+
+**Data:** Moro,S., Rita,P., and Cortez,P.. (2012). Bank Marketing. UCI Machine Learning Repository. https://archive.ics.uci.edu/dataset/222/bank+marketing.
+
+
+
 ### [Adidas Dashboard](https://public.tableau.com/views/Adidas_17001247399800/HomePage?:language=en-US&:display_count=n&:origin=viz_share_link) (External link to Tableau Public)
 
 > A Tableau dashboard visualizing how operating margins charge based on the year, store locations, and product sales.
