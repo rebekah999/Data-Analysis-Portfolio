@@ -37,7 +37,7 @@
 **Data:** https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset
 
 
-### [2022 Milwaukee Property Sales.xlsx](2022%20Milwaukee%20Property%20Sales.xlsx.zip)
+### [2022 Milwaukee Property Sales.xlsx](2022%20Milwaukee%20Property%20Sales%20Dashboard.xlsx)
 
 
 > An Excel dashboard analyzing residential property sales in Milwaukee.
