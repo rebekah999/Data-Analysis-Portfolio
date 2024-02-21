@@ -1,6 +1,6 @@
 # Data Analysis Portfolio
 
-## postgreSQL
+## PostgreSQL
 
 ### [Bike Store Sales Analysis.sql](Bike%20Store%20Sales%20Analysis.sql)
 
