@@ -10,7 +10,8 @@
 **Skills:** Subqueries, Aggregation, Manipulation, Grouping, Filtering, and Joining.
 
 **Data:**
-[Bike Store Data](Bike%20Store%20Data/)
+[Bike Store Data](Bike%20Store%20Data/) 
+[postgreSQL Schema Diagram](https://drawsql.app/teams/rebekahs-portfolio/diagrams/bicycles-database)
 
 
 ## Python
