@@ -1,17 +1,19 @@
 # Data Analysis Portfolio
 
-## SQL
+## postgreSQL
 
 ### [Bike Store Sales Analysis.sql](Bike%20Store%20Sales%20Analysis.sql)
 
 
 > A SQL file with queries providing insights into order processing, revenue analysis, customer behavior, inventory management, and employee performance.
 
-**Skills:** Subqueries, Aggregation, Manipulation, Grouping, Filtering, and Joining.
+**Skills:** Subqueries, Aggregation, Manipulation, Grouping, Filtering, and Joining.<br>
+
+**Database Schema Diagram:** 
+[Link to DrawSQL Diagram](https://drawsql.app/teams/rebekahs-portfolio/diagrams/bicycles-database)<br>
 
 **Data:**
 [Bike Store Data](Bike%20Store%20Data/) 
-[postgreSQL Schema Diagram](https://drawsql.app/teams/rebekahs-portfolio/diagrams/bicycles-database)
 
 
 ## Python
