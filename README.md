@@ -10,7 +10,7 @@
 **Skills:** Subqueries, Aggregation, Manipulation, Grouping, Filtering, and Joining.<br>
 
 **Database ERD:** 
-[Link to DrawSQL Diagram](https://drawsql.app/teams/rebekahs-portfolio/diagrams/bicycles-database)<br>
+[Link to DrawSQL Diagram](https://drawsql.app/teams/rebekahs-portfolio/diagrams/bicycles-database-erd)<br>
 
 **Data:**
 [Bike Store Data](Bike%20Store%20Data/) 
