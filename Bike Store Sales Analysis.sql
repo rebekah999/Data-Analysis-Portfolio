@@ -1,4 +1,8 @@
 -- Bike Store Sales Analysis
+/*
+All query results can be found on my GitHub: 
+https://github.com/rebekah999/Data-Analysis-Portfolio/tree/7a5790ef378b9dfe12c383147142bd85a36417cc/query%20results
+*/
 
 -- Query 1: Calculates how long it took for each order to ship
 SELECT 
@@ -89,3 +93,8 @@ GROUP BY
     employee, 
     sales_staff.store_id
 ORDER BY sales DESC;
+
+/*
+All query results can be found on my GitHub: 
+https://github.com/rebekah999/Data-Analysis-Portfolio/tree/7a5790ef378b9dfe12c383147142bd85a36417cc/query%20results
+*/
