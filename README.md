@@ -1,9 +1,13 @@
 # Data Analysis Portfolio
 
 ## PostgreSQL
+### [BicyclesDB.sql](BicyclesDB.sql)
+
+> This SQL file contains the structure and setup for a PostgreSQL database tailored to manage sales and inventory data for bike stores.
+
+**Skills:** Data Management, Relational Database Design, Table Alteration, PSQL Commands.<br>
 
 ### [Bike Store Sales Analysis.sql](Bike%20Store%20Sales%20Analysis.sql)
-
 
 > A SQL file with queries providing insights into order processing, revenue analysis, customer behavior, inventory management, and employee performance.
 
