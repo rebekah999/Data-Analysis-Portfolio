@@ -22,6 +22,16 @@
 
 ## Python
 
+### [S&P 500 Database Pipeline](%20S%26P%20500%20Database%20Pipeline.ipynb)
+
+> This notebook enables users to analyze SPY options trading data based on a specified expiration date. It calculates SPY's trading range for the selected date and retrieves all options that traded at the money (ATM) on that day and expire on the given date. Subsequently, it uploads both the underlying stock data and options data to a locally hosted PostgreSQL database.
+
+**Skills:** Object oriented programming, SQLAlchemy, Tradier API Data Retrieval and Processing, querying, updating, and managing database schema.
+
+**Database ERD:** [SPY_ERD.png](SPY_ERD.png)<br>
+
+**Data:** [Retrieved using Tradier's Sandbox API](https://documentation.tradier.com/brokerage-api/markets/get-history)
+
 ### [Salifort Motors - Employee Churn Prediction.ipynb](Salifort%20Motors%20-%20Employee%20Churn%20Prediction.ipynb)
 
 
