@@ -61,6 +61,8 @@
 
 **Skills:** Cleaning, manipulation, working with slicers, creating pivot tables and pivot charts, utilizing XLOOKUP, filtering, and applying formulas.
 
+**Snapshots:** [Preview of project](2022%20Milwaukee%20Property%20Sales%20Dashboard.pdf)
+
 **Data:** https://data.milwaukee.gov/dataset/7a8b81f6-d750-4f62-aee8-30ffce1c64ce
 
 
