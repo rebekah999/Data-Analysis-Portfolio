@@ -68,7 +68,7 @@
 
 ## Tableau
 
-### [Marketing Analysis: Term Deposit Campaign](https://public.tableau.com/views/MarketingAnalysis_17062759188240/TermDepositCampaign?:language=en-US&:display_count=n&:origin=viz_share_link) (External link to Tableau Public)
+### [Marketing Analysis: Term Deposit Campaign](https://public.tableau.com/app/profile/fowler.rebekah/viz/MarketingAnalysis_17062759188240/TermDepositCampaign) (External link to Tableau Public)
 
 > This storyboard is designed to compare the success of the current term deposit marketing campaign with the previous one, as well as to identify the demographic groups that responded best to the current campaign.
 
