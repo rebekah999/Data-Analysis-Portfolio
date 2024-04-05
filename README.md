@@ -76,7 +76,7 @@
 
 
 
-### [Adidas Dashboard](https://public.tableau.com/views/Adidas_17001247399800/HomePage?:language=en-US&:display_count=n&:origin=viz_share_link) (External link to Tableau Public)
+### [Adidas Dashboard](https://public.tableau.com/app/profile/fowler.rebekah/viz/Adidas_17001247399800/HomePage) (External link to Tableau Public)
 
 > A Tableau dashboard visualizing how operating margins charge based on the year, store locations, and product sales.
 
